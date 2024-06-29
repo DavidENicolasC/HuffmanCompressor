@@ -1,15 +1,15 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="1106704421" file="C:\Users\David\proyectos\HuffmanCompressor\HuffmanCompressor.prj" location="C:\Users\David\proyectos\HuffmanCompressor" name="HuffmanCompressor" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="1239068867" file="C:\Users\David\proyectos\HuffmanCompressor\HuffmanCompressor.prj" location="C:\Users\David\proyectos\HuffmanCompressor" name="HuffmanCompressor" target="target.mlapps" target-name="Package App">
     <param.appname>HuffmanCompressor</param.appname>
-    <param.authnamewatermark>David Emmanuel Nicolas Castañeda</param.authnamewatermark>
+    <param.authnamewatermark>DavidENicolasC</param.authnamewatermark>
     <param.email>dnicolasc1900@alumno.ipn.mx</param.email>
     <param.company>Instituto Politecnico Nacional</param.company>
     <param.icon />
     <param.icons />
     <param.summary />
     <param.description />
-    <param.screenshot>C:\Users\David\AppData\Local\Temp\tp2aa59293_24c1_4458_9096_87e832d0bc73.png</param.screenshot>
-    <param.version>1.0</param.version>
+    <param.screenshot>C:\Users\David\AppData\Local\Temp\tp8737f355_ab06_465a_bf0c_1895dad84667.png</param.screenshot>
+    <param.version>1.1</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
@@ -17,11 +17,11 @@
     <param.output>${PROJECT_ROOT}</param.output>
     <param.guid>f80174e2-485b-4d11-a9fb-cd6edf3f657a</param.guid>
     <unset>
+      <param.email />
       <param.icon />
       <param.icons />
       <param.summary />
       <param.description />
-      <param.version />
       <param.products.name />
       <param.products.id />
       <param.products.version />
@@ -34,9 +34,7 @@
     <fileset.depfun>
       <file>${PROJECT_ROOT}\Salida.txt</file>
     </fileset.depfun>
-    <fileset.resources>
-      <file>${PROJECT_ROOT}\Entrada.txt</file>
-    </fileset.resources>
+    <fileset.resources />
     <fileset.package />
     <build-deliverables>
       <file location="C:\Users\David\proyectos" name="HuffmanCompressor" optional="false">C:\Users\David\proyectos\HuffmanCompressor</file>
